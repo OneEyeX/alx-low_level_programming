@@ -10,12 +10,18 @@
  */
 int main(void)
 {
-	char c = 'a';
+	char l = 'a';
+	char u = 'A';
 
-	while (c <= 'z')
+	while (l <= 'z')
 	{
-		putchar(c);
-		c++;
+		putchar(l);
+		l++;
+	}
+	while (u <= 'Z')
+	{
+		putchar(u);
+		u++;
 	}
 	putchar('\n');
 	return (0);
