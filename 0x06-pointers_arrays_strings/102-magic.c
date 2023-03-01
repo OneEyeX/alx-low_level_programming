@@ -3,7 +3,7 @@
 int main(void)
 {
   int n;
-OBOBOB  int a[5];
+  int a[5];
   int *p;
 
   a[2] = 1024;
