@@ -21,7 +21,7 @@ char *rot13(char *str)
 	char rot13key[52] = {'N', 'O', 'P', 'Q', 'R', 'S',
 			     'T', 'U', 'V', 'W', 'X', 'Y',
 			     'Z', 'A', 'B', 'C', 'D', 'E',
-OAOAOA			     'F', 'G', 'H', 'I', 'J', 'K',
+			     'F', 'G', 'H', 'I', 'J', 'K',
 			     'L', 'M', 'n', 'o', 'p', 'q',
 			     'r', 's', 't', 'u', 'v', 'w',
 			     'x', 'y', 'z', 'a', 'b', 'c',
